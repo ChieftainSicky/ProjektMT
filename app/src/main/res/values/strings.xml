@@ -1,0 +1,6 @@
+<resources>
+    <!--Název aplikace -->
+    <string name="app_name">Novinky</string>
+    <!--Api key ze stranky https://newsapi.org-->
+    <string name="api_key">60e5e0914a7e4afb902623bc7f83876f</string>
+</resources>
